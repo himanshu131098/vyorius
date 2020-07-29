@@ -1,0 +1,104 @@
+h1{
+  font-size: 400%;
+}
+
+p{
+  font-size: 120%;
+}
+
+.topImg{
+  margin-right: 1%;
+  width: 120%;
+  height: 90%;
+  float: right;
+  margin-left: auto;
+}
+
+.logo{
+  margin-right: 3%;
+  width:55px;
+}
+
+.navbar-light .navbar-brand{
+  color: #FF914D;
+}
+
+.navbar-brand{
+  font-family: 'Righteous', cursive;
+  font-size: xx-large;
+}
+
+.navbar{
+  margin:0% auto;
+  font-size:medium;
+}
+
+ .nav-link:hover{
+  background-color: #FF914D;
+  font-weight: bold;
+  color: white;
+}
+
+.btn{
+  margin-right:2%;
+  background-color: #FF914D;
+  border-color: #FF914D;
+}
+
+.launch:hover{
+  background-color: white;
+  border: white;
+  color:#FF914D;
+
+}
+
+.jumbotron{
+  max-width: 50%;
+  margin:auto 4%;
+  background-color: white;
+  border-radius: 1rem;
+  padding-top: 3%;
+}
+
+p.sub-head{
+  color: #FF914D;
+  font-weight: bold;
+}
+
+.highlight{
+  color: #FF914D;
+}
+
+.tryBtn{
+  font-size: large;
+  width: 40%;
+  padding: 3%;
+  border-width: 2px;
+  font-weight: bold;
+
+}
+
+.tryBtn:hover{
+  background-color: white;
+  color: #FF914D;
+  border-color: #FF914D;
+}
+
+.moreBtn{
+    padding: 3%;
+    background-color: white;
+    border-width: 2px;
+    width: 40%;
+    color: #FF914D;
+    font-weight: bold;
+}
+
+.moreBtn:hover{
+  background-color: #FF914D;
+  color: white;
+  border-color: #FF914D;
+}
+
+.orderP{
+  margin:1% auto;
+}
